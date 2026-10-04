@@ -1,0 +1,16 @@
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.idea/
+.vscode/
+*.iml
+
+# Signing files and secrets
+*.jks
+*.keystore
+key.properties
+.env
